@@ -1,0 +1,3 @@
+[submodule "Macker"]
+	path = Macker
+	url = git@github.com:MackerRuleChecker/Macker.git
